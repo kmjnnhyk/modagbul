@@ -7,5 +7,12 @@
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "cSpell.words": [
+    "AUTOINCREMENT",
+    "dbauth",
+    "redwoodjs",
+    "sdls",
+    "signup"
+  ]
 }
